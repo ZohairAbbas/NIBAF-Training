@@ -26,4 +26,4 @@ A two days Bootcamp on Python, NLP, and GPT Models For Bankers in collaboration 
 - Future Directions Discussion On Integrating GPT Models into Banking Applications. 
 - Guidance On Further Learning Resources and How to Continue the Learning Journey.
 
-Made with ❤️ by [Zohair](https://github.com/ZohairAbbas)_, [Razi](https://github.com/Razi-Moosa), [Abdullah](https://github.com/chhotani18)
+Made with ❤️ by [Zohair](https://github.com/ZohairAbbas), [Razi](https://github.com/Razi-Moosa), [Abdullah](https://github.com/chhotani18)
