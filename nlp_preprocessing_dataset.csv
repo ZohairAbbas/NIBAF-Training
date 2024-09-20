@@ -1,0 +1,101 @@
+text,text_2
+Thiss is a misspelled sentence.,Thiss is a misspelled sentence.
+Removing stop words can help.,Removing stop words can help.
+Hello World! This is a test.,Hello World! This is a test.
+Stopword removal is essential.,Stopword removal is essential.
+Python programming is fun!!,Python programming is fun!!
+Here's another misspelled sentnce.,Here's another misspelled sentnce.
+"FYI, the meeting is rescheduled.","FYI, the meeting is rescheduled."
+Tokenization helps break down sentences.,Tokenization helps break down sentences.
+Cleaning data helps with analysis.,Cleaning data helps with analysis.
+This... is weird punctuation!,This... is weird punctuation!
+Call me ASAP!,Call me ASAP!
+Fixing spellng mistaks is useful.,Fixing spellng mistaks is useful.
+Visit https://www.example.com for more details.,Visit https://www.example.com for more details.
+This... is weird punctuation!,This... is weird punctuation!
+"Common chat words like lol, brb need handling.","Common chat words like lol, brb need handling."
+Handling emojis 😊 correctly is key.,Handling emojis 😊 correctly is key.
+Punctuation!!! is everywhere.,Punctuation!!! is everywhere.
+Cats and dogs are friends.,Cats and dogs are friends.
+Happy birthday @jane!,Happy birthday @jane!
+Sometimes sentences need stemming.,Sometimes sentences need stemming.
+"Stopwords like 'and', 'or' are common.","Stopwords like 'and', 'or' are common."
+Running quickly is difficult sometimes.,Running quickly is difficult sometimes.
+Tokenization is the first step!,Tokenization is the first step!
+Hello World! This is a test.,Hello World! This is a test.
+She is the best,She is the best
+This... is weird punctuation!,This... is weird punctuation!
+I'm loving this!❤️,I'm loving this!❤️
+Lemmatization brings words to their root forms.,Lemmatization brings words to their root forms.
+"FYI, the meeting is rescheduled.","FYI, the meeting is rescheduled."
+Cats and dogs are friends.,Cats and dogs are friends.
+Call me ASAP!,Call me ASAP!
+Tokenization helps break down sentences.,Tokenization helps break down sentences.
+Lemmatization brings words to their root forms.,Lemmatization brings words to their root forms.
+Data cleaning is vital for NLP.,Data cleaning is vital for NLP.
+Happy birthday! 🎂🎉,Happy birthday! 🎂🎉
+Stemming cuts words down.,Stemming cuts words down.
+Handling emojis 😊 correctly is key.,Handling emojis 😊 correctly is key.
+URLs like http://fakeurl.com aren't needed.,URLs like http://fakeurl.com aren't needed.
+"Chat words lol, omg are common.","Chat words lol, omg are common."
+URL handling like https://test.com is important.,URL handling like https://test.com is important.
+Sometimes sentences need stemming.,Sometimes sentences need stemming.
+Handling emojis 😊 correctly is key.,Handling emojis 😊 correctly is key.
+Removing HTML tags like <b>this</b> can help.,Removing HTML tags like <b>this</b> can help.
+Cleaning data helps with analysis.,Cleaning data helps with analysis.
+Visit https://www.example.com for more details.,Visit https://www.example.com for more details.
+"Chat words lol, omg are common.","Chat words lol, omg are common."
+Python programming is fun!!,Python programming is fun!!
+"FYI, the meeting is rescheduled.","FYI, the meeting is rescheduled."
+"I think, therefore I am.","I think, therefore I am."
+Removing stop words can help.,Removing stop words can help.
+LOL 😂,LOL 😂
+Tokenizing text is key.,Tokenizing text is key.
+Hello World! This is a test.,Hello World! This is a test.
+Cleaning data helps with analysis.,Cleaning data helps with analysis.
+Lemmatization is more powerful than stemming.,Lemmatization is more powerful than stemming.
+"Working from home is great, isn't it?","Working from home is great, isn't it?"
+Running quickly is difficult sometimes.,Running quickly is difficult sometimes.
+Removing HTML tags like <b>this</b> can help.,Removing HTML tags like <b>this</b> can help.
+Great 👍👍!!!,Great 👍👍!!!
+Tokenization helps break down sentences.,Tokenization helps break down sentences.
+Handling emojis 😊 correctly is key.,Handling emojis 😊 correctly is key.
+Tokenization breaks text into tokens.,Tokenization breaks text into tokens.
+Tokenization is the first step!,Tokenization is the first step!
+Removing stop words can help.,Removing stop words can help.
+"Common chat words like lol, brb need handling.","Common chat words like lol, brb need handling."
+She is the best,She is the best
+Spell correction is necessary for misspelled wrds.,Spell correction is necessary for misspelled wrds.
+This... is weird punctuation!,This... is weird punctuation!
+Read more at https://nlp.com,Read more at https://nlp.com
+Lemmatization brings words to their root forms.,Lemmatization brings words to their root forms.
+LOL this is funny 😂,LOL this is funny 😂
+Data cleaning is vital for NLP.,Data cleaning is vital for NLP.
+Call me ASAP!,Call me ASAP!
+Misspellings are common in text data.,Misspellings are common in text data.
+Misspellings are common in text data.,Misspellings are common in text data.
+Misspellings are common in text data.,Misspellings are common in text data.
+LOL 😂,LOL 😂
+I'm so excited!!!,I'm so excited!!!
+LOL this is funny 😂,LOL this is funny 😂
+"brb, ttyl!","brb, ttyl!"
+This is a sentence with a stopword.,This is a sentence with a stopword.
+Misspellings are common in text data.,Misspellings are common in text data.
+Happy birthday! 🎂🎉,Happy birthday! 🎂🎉
+This is awesome 😊,This is awesome 😊
+Misspellings are common in text data.,Misspellings are common in text data.
+Removing stop words can help.,Removing stop words can help.
+Lemmatization brings words to their root forms.,Lemmatization brings words to their root forms.
+Thiss is a misspelled sentence.,Thiss is a misspelled sentence.
+This is awesome 😊,This is awesome 😊
+"I think, therefore I am.","I think, therefore I am."
+"Common chat words like lol, brb need handling.","Common chat words like lol, brb need handling."
+"Removing punctuation, like commas, helps.","Removing punctuation, like commas, helps."
+Lowercasing ALL words simplifies things.,Lowercasing ALL words simplifies things.
+HTML tags like <div> are unnecessary.,HTML tags like <div> are unnecessary.
+"Removing punctuation, like commas, helps.","Removing punctuation, like commas, helps."
+Lowercasing ALL words simplifies things.,Lowercasing ALL words simplifies things.
+Tokenization helps break down sentences.,Tokenization helps break down sentences.
+Tokenization breaks text into tokens.,Tokenization breaks text into tokens.
+Lowercasing ALL words simplifies things.,Lowercasing ALL words simplifies things.
+This... is weird punctuation!,This... is weird punctuation!
